@@ -1,0 +1,2 @@
+# armoury
+A Slack integration.
